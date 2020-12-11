@@ -3,7 +3,7 @@ package route53
 import (
 	"strconv"
 
-	"github.com/libdns/route53"
+	"github.com/azetrix/route53-1"
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
