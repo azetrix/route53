@@ -1,4 +1,4 @@
-module github.com/caddy-dns/route53
+module github.com/azetrix/route53
 
 go 1.14
 
